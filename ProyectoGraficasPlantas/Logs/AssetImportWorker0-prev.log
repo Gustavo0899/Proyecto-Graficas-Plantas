@@ -1,0 +1,1834 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 32693 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Gustavo/OneDrive/Desktop/Proyecto Graficas/ProyectoGraficasPlantas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50701
+Successfully changed project path to: C:/Users/Gustavo/OneDrive/Desktop/Proyecto Graficas/ProyectoGraficasPlantas
+C:/Users/Gustavo/OneDrive/Desktop/Proyecto Graficas/ProyectoGraficasPlantas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Gustavo/OneDrive/Desktop/Proyecto Graficas/ProyectoGraficasPlantas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Vendor:   
+    VRAM:     12142 MB
+    Driver:   30.0.15.1277
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001977 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 3.417200 ms (FindLiveObjects: 0.235100 ms CreateObjectMapping: 0.054000 ms MarkObjects: 3.041100 ms  DeleteObjects: 0.085200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Numena/Plants
+  artifactKey: Guid(5bb141daadcaf8444a302fabb4de36b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants using Guid(5bb141daadcaf8444a302fabb4de36b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88222b410ff43b4720fc487b842bcfc7') in 0.009139 seconds
+  Import took 0.012117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab
+  artifactKey: Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab using Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87217902fe92b2d5666ecb1795122452') in 0.371273 seconds
+  Import took 0.373936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 3.prefab
+  artifactKey: Guid(9b77d12e48b7f364a82333485eca4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 3.prefab using Guid(9b77d12e48b7f364a82333485eca4473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82e842bfef4b8c6ae10e8f70a2a60da') in 0.017168 seconds
+  Import took 0.019126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 2.prefab
+  artifactKey: Guid(631dcab7c4e7c22418d6f6fa3dd74c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 2.prefab using Guid(631dcab7c4e7c22418d6f6fa3dd74c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d7c0e8b35b6787bf0a3440f0cdc8cc') in 0.018511 seconds
+  Import took 0.022024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Numena/Plants/Lemon
+  artifactKey: Guid(c2b337b422ebe1847a1c44e0488881ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon using Guid(c2b337b422ebe1847a1c44e0488881ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03afbd38fa49dee87497207008f55ccd') in 0.006034 seconds
+  Import took 0.008894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 1.prefab
+  artifactKey: Guid(3c98bb4bee2f2ba4b92a2fbca7b8831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 1.prefab using Guid(3c98bb4bee2f2ba4b92a2fbca7b8831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae43546f5ccc9a520bd5e433b4c817f6') in 0.014827 seconds
+  Import took 0.017163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.453921 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs
+  artifactKey: Guid(65445f6793b457b47b239d6c034e4987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs using Guid(65445f6793b457b47b239d6c034e4987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563c120d5f7ca007d16a505649880148') in 0.006011 seconds
+  Import took 0.008835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097961 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 2 Terrain.prefab
+  artifactKey: Guid(dc41cdb983cf13b499619e70eaf48fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 2 Terrain.prefab using Guid(dc41cdb983cf13b499619e70eaf48fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c31c02a593a32bd2c1337a61f4461d') in 0.159189 seconds
+  Import took 0.161504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 3 Terrain.prefab
+  artifactKey: Guid(6307fd731e2247b479cddefb30b094fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 3 Terrain.prefab using Guid(6307fd731e2247b479cddefb30b094fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872ce797a39a55b3c043549dcf2c5f1c') in 0.012350 seconds
+  Import took 0.014674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 4 Terrain.prefab
+  artifactKey: Guid(c1af1c199f153a340921be4c20ccb38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 4 Terrain.prefab using Guid(c1af1c199f153a340921be4c20ccb38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5704135c46732fab940d46190aea8308') in 0.013298 seconds
+  Import took 0.015589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005931 seconds.
+  path: Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 4 Terrain.prefab
+  artifactKey: Guid(c1af1c199f153a340921be4c20ccb38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Terain Prefabs/Lemon Tree 4 Terrain.prefab using Guid(c1af1c199f153a340921be4c20ccb38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5704135c46732fab940d46190aea8308') in 0.029180 seconds
+  Import took 0.031374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.740130 seconds.
+  path: Assets/BrokenVector
+  artifactKey: Guid(79f0ec64e0c05c54fb7209bf0c9e5474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector using Guid(79f0ec64e0c05c54fb7209bf0c9e5474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15318ccd9817d8c77d24e16abeb84558') in 0.005412 seconds
+  Import took 0.008348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.134646 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack
+  artifactKey: Guid(762d9af53e4f12743bc5e56e83602567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack using Guid(762d9af53e4f12743bc5e56e83602567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302428759a200ff9da71a710f46406bc') in 0.006690 seconds
+  Import took 0.008926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.740255 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Textures
+  artifactKey: Guid(13e5a42f2899f0849b9dc641367ed690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Textures using Guid(13e5a42f2899f0849b9dc641367ed690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e101207ba2f97653338a883ff3899d29') in 0.006933 seconds
+  Import took 0.008842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058739 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Cold.png
+  artifactKey: Guid(ed297eb21cb5e5e4188600ba2d272554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Cold.png using Guid(ed297eb21cb5e5e4188600ba2d272554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe15b92bc0fd6dbb2243883e79cbdb3') in 0.045307 seconds
+  Import took 0.048302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Fall.png
+  artifactKey: Guid(99897f7919c46fc43969a2a130434315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Fall.png using Guid(99897f7919c46fc43969a2a130434315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe047e897d72a54cc11b64cccce7eab') in 0.006783 seconds
+  Import took 0.008648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Normal.png
+  artifactKey: Guid(8ba8b94b5ab0c214fa2810a7df98a1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Normal.png using Guid(8ba8b94b5ab0c214fa2810a7df98a1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10229eb44b63d519ae837046c0fb871') in 0.014444 seconds
+  Import took 0.016788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Dry.png
+  artifactKey: Guid(9236635f319ab034fa33215e8eaa903a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Dry.png using Guid(9236635f319ab034fa33215e8eaa903a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cae48287a5813017711f8cf149beb4c') in 0.008653 seconds
+  Import took 0.011000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.279409 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs
+  artifactKey: Guid(61e2f7a33e5cc384daa2b7f9271e54b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs using Guid(61e2f7a33e5cc384daa2b7f9271e54b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d91cad7dad16caf3fe4a6cdbbc442ec') in 0.006666 seconds
+  Import took 0.009208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064052 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 01.prefab
+  artifactKey: Guid(aee731a00031fcc4d9d2b075e528e050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 01.prefab using Guid(aee731a00031fcc4d9d2b075e528e050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3389c38f58bc2522ff930574b9c34d8') in 0.196148 seconds
+  Import took 0.200711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 03.prefab
+  artifactKey: Guid(069e1e44b643edc4fb4a9d4311a78fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 03.prefab using Guid(069e1e44b643edc4fb4a9d4311a78fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7984ba58d9b753b8c9a24aea4323148') in 0.012674 seconds
+  Import took 0.014841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 03.prefab
+  artifactKey: Guid(a0c53a09e4a37b5409b1248ebce2c376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 03.prefab using Guid(a0c53a09e4a37b5409b1248ebce2c376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3cb9e3562c2e70a4de5ed715d98daa') in 0.012349 seconds
+  Import took 0.015413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 05.prefab
+  artifactKey: Guid(c7bcf19bbfa57ed4ea9147dff66d5542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 05.prefab using Guid(c7bcf19bbfa57ed4ea9147dff66d5542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660e7c49a767afd83d5bd6aaa5a77c6d') in 0.014298 seconds
+  Import took 0.016602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 03.prefab
+  artifactKey: Guid(d537224908c5f444f86c9e57e0c7234c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 03.prefab using Guid(d537224908c5f444f86c9e57e0c7234c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c46bde163c2f6d752a219ae74026ad4') in 0.013154 seconds
+  Import took 0.015736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 06.prefab
+  artifactKey: Guid(a9cc5585b9634a9449920c03ec6bc243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 06.prefab using Guid(a9cc5585b9634a9449920c03ec6bc243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e904df38b6ef04e117c17fc9744d93b4') in 0.015401 seconds
+  Import took 0.017437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 05.prefab
+  artifactKey: Guid(9469bb1d3aa88ca40aa4079e96a27f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 05.prefab using Guid(9469bb1d3aa88ca40aa4079e96a27f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5421267bd0a6482d842264f5054f6c9') in 0.013380 seconds
+  Import took 0.015687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 02.prefab
+  artifactKey: Guid(ac00d368a6864c04791bc85c5567bd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 02.prefab using Guid(ac00d368a6864c04791bc85c5567bd51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf57da4f5a0fdcdd0fca1de02fdd13fb') in 0.012995 seconds
+  Import took 0.015386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 04.prefab
+  artifactKey: Guid(613b4cc8c589ad8458e792ae21891bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 04.prefab using Guid(613b4cc8c589ad8458e792ae21891bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf7689531854c09be3f57ef5f669f88') in 0.010576 seconds
+  Import took 0.012906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 05.prefab
+  artifactKey: Guid(87a6cef862ce2cb4a88c5ca5d5af5d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 05.prefab using Guid(87a6cef862ce2cb4a88c5ca5d5af5d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9325c439e49f950639714d1f5e985c') in 0.015243 seconds
+  Import took 0.018977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 01.prefab
+  artifactKey: Guid(ec7286e0017272441a3dec9205cb8daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 01.prefab using Guid(ec7286e0017272441a3dec9205cb8daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672e8392fee66e122757da8ed28330e5') in 0.024394 seconds
+  Import took 0.026558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 03.prefab
+  artifactKey: Guid(98653de49a7044442972e6997c40db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 03.prefab using Guid(98653de49a7044442972e6997c40db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46583c923e95672faeb35cab77f6392d') in 0.011175 seconds
+  Import took 0.013116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 04.prefab
+  artifactKey: Guid(99a48108c5a1932488c06e519f6097f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 04.prefab using Guid(99a48108c5a1932488c06e519f6097f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36407172affbfe5c5f5c3cbf5bac2b23') in 0.011528 seconds
+  Import took 0.013595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 03.prefab
+  artifactKey: Guid(a1d34f7914a1d8148a0ce7262f7ba394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 03.prefab using Guid(a1d34f7914a1d8148a0ce7262f7ba394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009c7eec0cb841961813013c62f72186') in 0.012480 seconds
+  Import took 0.014665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 02.prefab
+  artifactKey: Guid(446fc4730aadcd04985c8dafaaf0c501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 02.prefab using Guid(446fc4730aadcd04985c8dafaaf0c501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad76f243d3697f5844de8a1cb63ba7ce') in 0.013177 seconds
+  Import took 0.015042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 04.prefab
+  artifactKey: Guid(8a7cf5ac7b4145441a3dca86f869b09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 04.prefab using Guid(8a7cf5ac7b4145441a3dca86f869b09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646cbb2c756469a361125373b40a364b') in 0.009661 seconds
+  Import took 0.011888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 03.prefab
+  artifactKey: Guid(55ca4401075700d46a23ae8179a79579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 03.prefab using Guid(55ca4401075700d46a23ae8179a79579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c871ed2cb4edf7ccd0f9f050b972cf') in 0.009261 seconds
+  Import took 0.011146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 01.prefab
+  artifactKey: Guid(78c29697749a6d44e964f9a0cf83d77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 01.prefab using Guid(78c29697749a6d44e964f9a0cf83d77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7595088e8d2e3b90c46e4cf3cb257ca5') in 0.011789 seconds
+  Import took 0.013594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 04.prefab
+  artifactKey: Guid(7c5aafe3fe2c6ef4a9150f7f44653760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 04.prefab using Guid(7c5aafe3fe2c6ef4a9150f7f44653760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fa9f59ffacf4988c0033ee55d5b42c') in 0.012779 seconds
+  Import took 0.014802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 02.prefab
+  artifactKey: Guid(5c3cbac9d5eae3844a928d36e6dbd1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 02.prefab using Guid(5c3cbac9d5eae3844a928d36e6dbd1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e376e1b5d533b1c737c9f48db61bebad') in 0.013629 seconds
+  Import took 0.015771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 02.prefab
+  artifactKey: Guid(7641c7e8354e2c44cab6432d9d2c6d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 02.prefab using Guid(7641c7e8354e2c44cab6432d9d2c6d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8216c85a0a303500eb7874000c8205e') in 0.011206 seconds
+  Import took 0.013207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 04.prefab
+  artifactKey: Guid(8ed1fa325ca228645ad26dd6eff14768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 04.prefab using Guid(8ed1fa325ca228645ad26dd6eff14768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d1802be40e8ba4e9f24337e56417e5') in 0.013445 seconds
+  Import took 0.016371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 01.prefab
+  artifactKey: Guid(11d469914a0208343b39f04223416f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 01.prefab using Guid(11d469914a0208343b39f04223416f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a37105f4552d4aec4394e67f447f127') in 0.010298 seconds
+  Import took 0.013000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 05.prefab
+  artifactKey: Guid(76be61eeff2e7164cb99e1cf8cf0c22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 05.prefab using Guid(76be61eeff2e7164cb99e1cf8cf0c22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b126b85b9695847dc72751c863464da9') in 0.016758 seconds
+  Import took 0.019175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 04.prefab
+  artifactKey: Guid(1e4e7284c1efd5f4eb702c799353072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type5 04.prefab using Guid(1e4e7284c1efd5f4eb702c799353072c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0eea0f6df4d9e9c9a24c8f5e51e9299') in 0.012076 seconds
+  Import took 0.015139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 01.prefab
+  artifactKey: Guid(fc05c8bfad7df5a4abe568aca7403b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 01.prefab using Guid(fc05c8bfad7df5a4abe568aca7403b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126b6d144026e9e05fbded85e7e0cd6e') in 0.022571 seconds
+  Import took 0.024495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 05.prefab
+  artifactKey: Guid(aec50823ac9be1b45b5778c3b6c0f51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 05.prefab using Guid(aec50823ac9be1b45b5778c3b6c0f51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c401806d7614eff67cd38f84ddec3c13') in 0.012595 seconds
+  Import took 0.014663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 02.prefab
+  artifactKey: Guid(38ade0ba7c293f14a9b1b610879e9390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 02.prefab using Guid(38ade0ba7c293f14a9b1b610879e9390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b55c4390bb3442870385060dbf58343') in 0.012879 seconds
+  Import took 0.015363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 03.prefab
+  artifactKey: Guid(b1b1573cfe717c04caad3e631288f7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 03.prefab using Guid(b1b1573cfe717c04caad3e631288f7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179195c28acab4cab81b19fb2ac8d06a') in 0.012562 seconds
+  Import took 0.014594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 01.prefab
+  artifactKey: Guid(fb8ae0828a555f74996970b8d0495f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 01.prefab using Guid(fb8ae0828a555f74996970b8d0495f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b71d384a54de5d44a6563957105885') in 0.012373 seconds
+  Import took 0.015382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 02.prefab
+  artifactKey: Guid(5037d6ea184d2f640bf78dcf9894a269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type2 02.prefab using Guid(5037d6ea184d2f640bf78dcf9894a269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775ff3240dd9d0c034f7b8cbb4396b0a') in 0.012361 seconds
+  Import took 0.014585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 02.prefab
+  artifactKey: Guid(702740a5e4ac1ee40a1888d3b62faa91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 02.prefab using Guid(702740a5e4ac1ee40a1888d3b62faa91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5d135af77c327ed28b172bb55e41e2') in 0.009983 seconds
+  Import took 0.012268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 01.prefab
+  artifactKey: Guid(62724a8cd2495b14f930b7129c3bc47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 01.prefab using Guid(62724a8cd2495b14f930b7129c3bc47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb97ec16954f22018a5ae5265e5cc26c') in 0.011194 seconds
+  Import took 0.015146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.108952 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 04.prefab
+  artifactKey: Guid(eed418c5a3c80d448b4cdbe594ebe3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type6 04.prefab using Guid(eed418c5a3c80d448b4cdbe594ebe3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b53b4c52c50e51b2b4b5a52be5104e') in 0.028288 seconds
+  Import took 0.030603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 01.prefab
+  artifactKey: Guid(3fd9507fb16d56044bcf520c1d14427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 01.prefab using Guid(3fd9507fb16d56044bcf520c1d14427c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364dae4c86a070bce23be696767a0acc') in 0.009551 seconds
+  Import took 0.011529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 03.prefab
+  artifactKey: Guid(2327ed4809c34cf4c97a5316db3d4796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 03.prefab using Guid(2327ed4809c34cf4c97a5316db3d4796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472f4df31c99eed6665ef5cadc894be1') in 0.013814 seconds
+  Import took 0.016435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 02.prefab
+  artifactKey: Guid(107cc8771223daf48be99527559937ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 02.prefab using Guid(107cc8771223daf48be99527559937ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e4a71955540d610e213c47a7ccec2e') in 0.015614 seconds
+  Import took 0.019568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002212 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 04.prefab
+  artifactKey: Guid(3c74caa0496b18d4ba0a1009ebb4c992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type7 04.prefab using Guid(3c74caa0496b18d4ba0a1009ebb4c992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ed6467779c769bccdfc3db4f38db0de') in 0.017134 seconds
+  Import took 0.019989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.023888 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 03.dae
+  artifactKey: Guid(dec71bb4e66221144b5db0af9e0f39d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 03.dae using Guid(dec71bb4e66221144b5db0af9e0f39d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f6f2950888fe3b6fdca2972e3a012e') in 0.173391 seconds
+  Import took 0.175902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 05.dae
+  artifactKey: Guid(05f4a294fb6ca7e4c87b33948d1ebec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 05.dae using Guid(05f4a294fb6ca7e4c87b33948d1ebec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435a00190dcde8c8a600b6e43d325cb4') in 0.011385 seconds
+  Import took 0.013149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 02.dae
+  artifactKey: Guid(eec2a0a67f1c8b243a386ec359eda522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 02.dae using Guid(eec2a0a67f1c8b243a386ec359eda522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3db848ec73d2a3cbfae2b054e33ae2') in 0.018131 seconds
+  Import took 0.019911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 02.dae
+  artifactKey: Guid(819c10f136958e549bf2eb4702b8f111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 02.dae using Guid(819c10f136958e549bf2eb4702b8f111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bd00824277ba7d6f1f166b8f50a40e') in 0.017227 seconds
+  Import took 0.019492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 03.dae
+  artifactKey: Guid(f6e7f2100b2c5544d94468d977d66b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 03.dae using Guid(f6e7f2100b2c5544d94468d977d66b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f418d5753b526fdfca51ff004eb6549') in 0.015536 seconds
+  Import took 0.017924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 03.dae
+  artifactKey: Guid(32b2d01a42b6ac84d9e11d5f05c569e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 03.dae using Guid(32b2d01a42b6ac84d9e11d5f05c569e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e47e1af24a45b6945e2acb4792418b') in 0.015698 seconds
+  Import took 0.017684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 02.dae
+  artifactKey: Guid(a502c85dd672f8d428b76fd14220881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 02.dae using Guid(a502c85dd672f8d428b76fd14220881f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5e2763ceae7722a05b46c6c360c485') in 0.014179 seconds
+  Import took 0.016151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 01.dae
+  artifactKey: Guid(dfc73e1f73ca4d64da934fb2dcb38e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 01.dae using Guid(dfc73e1f73ca4d64da934fb2dcb38e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376085e3acaa312d38a2f8fa035cf628') in 0.015635 seconds
+  Import took 0.017635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 04.dae
+  artifactKey: Guid(2ab8bbefc4a0d4948b52fdcbd7c3489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 04.dae using Guid(2ab8bbefc4a0d4948b52fdcbd7c3489b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82dc59819d05e82fa1817a268f49f79') in 0.019865 seconds
+  Import took 0.022770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 05.dae
+  artifactKey: Guid(0658909382c77d041b643ae92bd27b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 05.dae using Guid(0658909382c77d041b643ae92bd27b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db72956007dbe69fe54804bd26cbf2c') in 0.016733 seconds
+  Import took 0.019305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 04.dae
+  artifactKey: Guid(f52689dc8ea801b46874ff4a4a6c328a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 04.dae using Guid(f52689dc8ea801b46874ff4a4a6c328a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75ba3f4aa8e878a4c69c746c16d3578') in 0.012873 seconds
+  Import took 0.015226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 01.dae
+  artifactKey: Guid(d508de2584ef7734aa500f5c47210151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 01.dae using Guid(d508de2584ef7734aa500f5c47210151) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c633f4caf611c6ae074338f2421faf95') in 0.027172 seconds
+  Import took 0.029534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 03.dae
+  artifactKey: Guid(10155e34e1176c3489486fbf0cef1736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 03.dae using Guid(10155e34e1176c3489486fbf0cef1736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14bac6b7bc3e2961b96b8b51d85d640') in 0.010050 seconds
+  Import took 0.011775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 04.dae
+  artifactKey: Guid(66f0726e43c72a94aa9dc7aa4b6cbfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type6 04.dae using Guid(66f0726e43c72a94aa9dc7aa4b6cbfe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96a9ccf1f989860796b31007f2c904f') in 0.011436 seconds
+  Import took 0.013320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 03.dae
+  artifactKey: Guid(770b1e3321cb97344b7b5f9ccc2bfe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 03.dae using Guid(770b1e3321cb97344b7b5f9ccc2bfe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099b4bb691ed351b1be4aae67da87534') in 0.013865 seconds
+  Import took 0.015700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 02.dae
+  artifactKey: Guid(68218c07874adef4fbe8100958fd9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 02.dae using Guid(68218c07874adef4fbe8100958fd9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8604f544143b8c671437f3b67607aa70') in 0.015048 seconds
+  Import took 0.016832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 05.dae
+  artifactKey: Guid(f6c597498257ae843adeb6a76dd3013e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 05.dae using Guid(f6c597498257ae843adeb6a76dd3013e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e4d67343be704c12cb0b4c665f4260') in 0.011273 seconds
+  Import took 0.012997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 01.dae
+  artifactKey: Guid(b3d80aad1767322488af8777deb5fd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 01.dae using Guid(b3d80aad1767322488af8777deb5fd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61ec797c21c15b45d7de1a621ebb27e2') in 0.011892 seconds
+  Import took 0.013649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 05.dae
+  artifactKey: Guid(08370ae33fad3da4a8357631f8a9f5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 05.dae using Guid(08370ae33fad3da4a8357631f8a9f5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7c0fad44c76c3f9d49083985ab5a44') in 0.010834 seconds
+  Import took 0.013647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 04.dae
+  artifactKey: Guid(361dbd13abe581240910f764f838d930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 04.dae using Guid(361dbd13abe581240910f764f838d930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03443de718139218821fbb9589c93e92') in 0.017236 seconds
+  Import took 0.019391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 03.dae
+  artifactKey: Guid(1e97612a294865943926d93961f9c229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type5 03.dae using Guid(1e97612a294865943926d93961f9c229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e47e03d62d5329736edf2e09b8e6ec') in 0.016908 seconds
+  Import took 0.019079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 01.dae
+  artifactKey: Guid(5166d739d26f73246a2623515169479e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 01.dae using Guid(5166d739d26f73246a2623515169479e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fde1b3ddb7a6b7c1c75955e5a70a60d') in 0.013917 seconds
+  Import took 0.015927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 04.dae
+  artifactKey: Guid(0ddb82da3485fac4dbfe187acb70a610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 04.dae using Guid(0ddb82da3485fac4dbfe187acb70a610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa13e0e45a25adedf395aaa0932226e') in 0.012224 seconds
+  Import took 0.014245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 01.dae
+  artifactKey: Guid(173d123c3e337ee4c9d101f4c77225f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 01.dae using Guid(173d123c3e337ee4c9d101f4c77225f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494158a6dbeffcf5fe41bfddf1306682') in 0.024251 seconds
+  Import took 0.026161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 01.dae
+  artifactKey: Guid(9ddce011fb3cf3341b8c252c9b00cb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 01.dae using Guid(9ddce011fb3cf3341b8c252c9b00cb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fabcda5c2eb1df0c2ddc2ce2c8e24a6') in 0.014182 seconds
+  Import took 0.016409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 02.dae
+  artifactKey: Guid(2ea73da7fe37e7b42bb77b26e97df11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 02.dae using Guid(2ea73da7fe37e7b42bb77b26e97df11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b199fe99cfa28b92d682ce4ff1c600d') in 0.013889 seconds
+  Import took 0.016503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 02.dae
+  artifactKey: Guid(20daf9d902df0d749bd16ac37a353854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 02.dae using Guid(20daf9d902df0d749bd16ac37a353854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5eb8110df0e831b6a857d0ec637091') in 0.016918 seconds
+  Import took 0.020317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 03.dae
+  artifactKey: Guid(35c5b6683953dc54f99f68b4a16819f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 03.dae using Guid(35c5b6683953dc54f99f68b4a16819f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '667008e34a36e15ff06d9e7e3a15eec6') in 0.021122 seconds
+  Import took 0.023188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 04.dae
+  artifactKey: Guid(f59e9c62851aaed46bb0599645bdfdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type7 04.dae using Guid(f59e9c62851aaed46bb0599645bdfdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4ea18363dbef8b9cbacec16de1d34a') in 0.011691 seconds
+  Import took 0.013494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 04.dae
+  artifactKey: Guid(49a13064a6f46f1438de87926fc5fc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type2 04.dae using Guid(49a13064a6f46f1438de87926fc5fc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13006669e56d3b370f716e5baca8bdb8') in 0.010503 seconds
+  Import took 0.013392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.464023 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 01.dae
+  artifactKey: Guid(d2821924b86cff5439f12b0289585dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 01.dae using Guid(d2821924b86cff5439f12b0289585dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce064e1e6268766521a0ae50b724aa7') in 0.028965 seconds
+  Import took 0.034436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 02.dae
+  artifactKey: Guid(6b63ca9c7bc00f24b81b6cb48095b9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 02.dae using Guid(6b63ca9c7bc00f24b81b6cb48095b9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f6d5a3162bd9a749ca71ea9d337da7') in 0.019330 seconds
+  Import took 0.024044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 03.dae
+  artifactKey: Guid(5648c7aa655120f44aab862e4a038f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 03.dae using Guid(5648c7aa655120f44aab862e4a038f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb94c5d7467d3f4adab60212ea8cb2e') in 0.018605 seconds
+  Import took 0.021500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 01.dae
+  artifactKey: Guid(cb132eeaea305bc478721cc9b5cb57f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 01.dae using Guid(cb132eeaea305bc478721cc9b5cb57f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999f7a13026bd1fbf686be79708bbe4a') in 0.014075 seconds
+  Import took 0.017189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 02.dae
+  artifactKey: Guid(e063977d54ec61849aacc1b8e9eafc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 02.dae using Guid(e063977d54ec61849aacc1b8e9eafc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '624c951512221dc7705bf3848457853f') in 0.017532 seconds
+  Import took 0.020392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 01.dae
+  artifactKey: Guid(d2821924b86cff5439f12b0289585dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 01.dae using Guid(d2821924b86cff5439f12b0289585dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce064e1e6268766521a0ae50b724aa7') in 0.012496 seconds
+  Import took 0.015237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 06.dae
+  artifactKey: Guid(58e56545a2d219944b78729eaa444a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 06.dae using Guid(58e56545a2d219944b78729eaa444a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8683b04d7bb9a4465dfbea022652df') in 0.011249 seconds
+  Import took 0.013809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 04.dae
+  artifactKey: Guid(b4f0e46a9f630054c925d3d92d45584e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 04.dae using Guid(b4f0e46a9f630054c925d3d92d45584e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ecfa54a0b0560e3bd40ee1a11407dbd') in 0.020506 seconds
+  Import took 0.022523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 05.dae
+  artifactKey: Guid(c8fd0d31d77530344baa4b459b8e221e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 05.dae using Guid(c8fd0d31d77530344baa4b459b8e221e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2b61acafebe900239cd47867e3d3b5') in 0.014225 seconds
+  Import took 0.016032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.295310 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Cold.mat
+  artifactKey: Guid(d945c681c4504df439962c1a6f33d8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Cold.mat using Guid(d945c681c4504df439962c1a6f33d8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a4f255130ab529b14a1da1bf41925c') in 0.034132 seconds
+  Import took 0.036229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Fall.mat
+  artifactKey: Guid(a62e8da5194101042a4d89028ef6f912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Fall.mat using Guid(a62e8da5194101042a4d89028ef6f912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faab94340d302da4ef1196d802cf0507') in 0.009004 seconds
+  Import took 0.010922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat
+  artifactKey: Guid(fe3e3b8ebc1a32647b48b7ea88f534a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat using Guid(fe3e3b8ebc1a32647b48b7ea88f534a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f261f01c4a3369681060c207b8e8068b') in 0.011025 seconds
+  Import took 0.013513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Dry.mat
+  artifactKey: Guid(894583d895d58b444b8e8b67169bd2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Dry.mat using Guid(894583d895d58b444b8e8b67169bd2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721afaee0c35c41596c49ddf299126b2') in 0.016082 seconds
+  Import took 0.018106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.024439 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab
+  artifactKey: Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab using Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f956485a647558792ec2a4ac6add06d') in 0.014291 seconds
+  Import took 0.017477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.568021 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab
+  artifactKey: Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab using Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41217268a8364d6e9d32c3f3f744e268') in 0.012762 seconds
+  Import took 0.015277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.590118 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab
+  artifactKey: Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab using Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7c00b2916366a99e762aa4854a12b6') in 0.012356 seconds
+  Import took 0.015328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.850277 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab
+  artifactKey: Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 4.prefab using Guid(f1ac1674b1044b940a5e6f1e32750350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f741787d19e1b89926e4b0ecf27e36') in 0.010834 seconds
+  Import took 0.013394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.054954 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Tree 1.prefab
+  artifactKey: Guid(3c98bb4bee2f2ba4b92a2fbca7b8831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Tree 1.prefab using Guid(3c98bb4bee2f2ba4b92a2fbca7b8831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf8a2f3c03373cb6f185f22bd413ee0') in 0.011591 seconds
+  Import took 0.014090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.943285 seconds.
+  path: Assets/Numena/Plants/Lemon/Lemon Demo Scene.unity
+  artifactKey: Guid(7fd4e25bc104d5940aad56f224322202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Lemon Demo Scene.unity using Guid(7fd4e25bc104d5940aad56f224322202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac14a16f153cbaf3274fdf055436a57') in 0.006282 seconds
+  Import took 0.008638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 495.724245 seconds.
+  path: Assets/Numena/Plants/Lemon/Plants Documentation Unity.pdf
+  artifactKey: Guid(d654312833a7c1747812813ee09f4c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Plants Documentation Unity.pdf using Guid(d654312833a7c1747812813ee09f4c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfdbe58b00e1e0dd88e55a4d77c5215') in 0.013755 seconds
+  Import took 0.016542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.587176 seconds.
+  path: Assets/Numena/Plants/Lemon/Source
+  artifactKey: Guid(1fea28343f9e6884aaef8a858c254d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source using Guid(1fea28343f9e6884aaef8a858c254d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84349a0fdbd238cc87e7f523eae5098c') in 0.007824 seconds
+  Import took 0.010476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.207161 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon 2 terrain mesh.asset
+  artifactKey: Guid(4f627e7dc1e8e474daeb4363c5ae7ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon 2 terrain mesh.asset using Guid(4f627e7dc1e8e474daeb4363c5ae7ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7661003df8013f69cb0c0f45cefe0e1') in 0.023430 seconds
+  Import took 0.026520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon trees.fbx
+  artifactKey: Guid(ef80fce6f167feb4392b15e0aedf35d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon trees.fbx using Guid(ef80fce6f167feb4392b15e0aedf35d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72244a8d00376a65e0f26b1fb84eaf0b') in 0.094658 seconds
+  Import took 0.097107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon 4 terrain mesh.asset
+  artifactKey: Guid(5b22d7112ec28b54eb9594af8256c4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon 4 terrain mesh.asset using Guid(5b22d7112ec28b54eb9594af8256c4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7ffec56e25e03961a7047994701043') in 0.016005 seconds
+  Import took 0.018558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon 2 terrain mesh.asset
+  artifactKey: Guid(4f627e7dc1e8e474daeb4363c5ae7ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon 2 terrain mesh.asset using Guid(4f627e7dc1e8e474daeb4363c5ae7ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7661003df8013f69cb0c0f45cefe0e1') in 0.008837 seconds
+  Import took 0.011477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon trees w fruits.fbx
+  artifactKey: Guid(98b0ccf8b6592394f847463b75d797f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon trees w fruits.fbx using Guid(98b0ccf8b6592394f847463b75d797f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89aa524057409ec8a8134d557489754') in 0.040716 seconds
+  Import took 0.043363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/lemon 3 terrain mesh.asset
+  artifactKey: Guid(9cebe566ed4bc914a911431512a808a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/lemon 3 terrain mesh.asset using Guid(9cebe566ed4bc914a911431512a808a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf1dbcf07db62ad459f58a3531af019') in 0.010986 seconds
+  Import took 0.013310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.742349 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Textures
+  artifactKey: Guid(1c12e504934dd514ab960939aa73b4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Textures using Guid(1c12e504934dd514ab960939aa73b4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157261ca5c19cc8ecd4e92930e17cb03') in 0.002007 seconds
+  Import took 0.004257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Textures
+  artifactKey: Guid(1c12e504934dd514ab960939aa73b4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Textures using Guid(1c12e504934dd514ab960939aa73b4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157261ca5c19cc8ecd4e92930e17cb03') in 0.001724 seconds
+  Import took 0.003747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084296 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Textures/Lemon Bark Color.png
+  artifactKey: Guid(8d928fcad34ba0242a75b360decfed98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Textures/Lemon Bark Color.png using Guid(8d928fcad34ba0242a75b360decfed98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0189726dcab0e151aef4bd9f1fe7a3') in 0.013195 seconds
+  Import took 0.015723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Textures/Lemon Bark Normal.png
+  artifactKey: Guid(8c03514cee68022409c778c5912c6426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Textures/Lemon Bark Normal.png using Guid(8c03514cee68022409c778c5912c6426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd8f92ff75a9ea003727aab78f349a4') in 0.018299 seconds
+  Import took 0.020241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Textures/Lemon Branch Color.png
+  artifactKey: Guid(b546e2259560a7541ad7cb60338d3d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Textures/Lemon Branch Color.png using Guid(b546e2259560a7541ad7cb60338d3d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7ebc658246e1e0dce87ca43024ace0') in 0.014437 seconds
+  Import took 0.018709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Textures/Lemon Branch Normal.png
+  artifactKey: Guid(984330eebef34dc4d9b1cd7cebda3c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Textures/Lemon Branch Normal.png using Guid(984330eebef34dc4d9b1cd7cebda3c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062cf7320ec08190ff2b1b1ee72d6c11') in 0.011155 seconds
+  Import took 0.017223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.204958 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Materials
+  artifactKey: Guid(c91c9d92b93d72843a9129ddca43ea69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Materials using Guid(c91c9d92b93d72843a9129ddca43ea69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f4350168a3c9bfc4a9bc61aa16309d') in 0.005432 seconds
+  Import took 0.007364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046528 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Materials/Lemon Bark Terrain.mat
+  artifactKey: Guid(8d8a27f4d3d525c4b877764b7dc7b7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Materials/Lemon Bark Terrain.mat using Guid(8d8a27f4d3d525c4b877764b7dc7b7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9027a9a9695cd5d2aff84b6149abbf3f') in 0.012908 seconds
+  Import took 0.015123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Materials/Lemon Branch.mat
+  artifactKey: Guid(919766340a0cc574b9c8d588f0f58af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Materials/Lemon Branch.mat using Guid(919766340a0cc574b9c8d588f0f58af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea980020fa64f0f6be1603583621949') in 0.013932 seconds
+  Import took 0.015848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Materials/Lemon Branch Terain.mat
+  artifactKey: Guid(a46a97848f663054ab0245b772347e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Materials/Lemon Branch Terain.mat using Guid(a46a97848f663054ab0245b772347e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230d7be2e69e254a4443ad86545b4893') in 0.015487 seconds
+  Import took 0.017953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Numena/Plants/Lemon/Source/Materials/Lemon Bark.mat
+  artifactKey: Guid(c5cedbf48b824b1419e18ddea44455cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Source/Materials/Lemon Bark.mat using Guid(c5cedbf48b824b1419e18ddea44455cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9590722ac449e2bd2641f0b6d597353') in 0.016144 seconds
+  Import took 0.018812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.176734 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits
+  artifactKey: Guid(73c415972e419bf4cacbaa7d8aaec6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits using Guid(73c415972e419bf4cacbaa7d8aaec6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac4a527428d35381f1a9954b4ecd3d5') in 0.006866 seconds
+  Import took 0.009236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098237 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 1 w Fruits.prefab
+  artifactKey: Guid(46dea74f7999f4c4f9d26ad24b8282c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 1 w Fruits.prefab using Guid(46dea74f7999f4c4f9d26ad24b8282c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0129416094c6160fc8a7d831b85afa4') in 0.028027 seconds
+  Import took 0.031158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 4 w Fruits.prefab
+  artifactKey: Guid(c1293ad6a2baf184c92d003aa923c284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 4 w Fruits.prefab using Guid(c1293ad6a2baf184c92d003aa923c284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd230a5e8c918cd79656e899422a681bf') in 0.016153 seconds
+  Import took 0.018335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 3 w Fruits.prefab
+  artifactKey: Guid(67762154df3b7ca4eaaebcc646c11bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 3 w Fruits.prefab using Guid(67762154df3b7ca4eaaebcc646c11bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a9dc7b4e82a7366ce9b309536a8eba6') in 0.016256 seconds
+  Import took 0.018434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 2 w Fruits.prefab
+  artifactKey: Guid(e1a86f799eb10924597db250eb786896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Numena/Plants/Lemon/Prefabs With Fruits/Lemon Tree 2 w Fruits.prefab using Guid(e1a86f799eb10924597db250eb786896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c9f05e2d812f0db4cc4dd6838cb271') in 0.016212 seconds
+  Import took 0.020022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 931.008443 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures
+  artifactKey: Guid(0c507a17684ab034a832844486d922e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures using Guid(0c507a17684ab034a832844486d922e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac210857381b82c161361dac500d7f0b') in 0.005390 seconds
+  Import took 0.007924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.237059 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Atlas.png
+  artifactKey: Guid(750c26770681cd64c9b06c08cb6288f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Atlas.png using Guid(750c26770681cd64c9b06c08cb6288f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5868222ecb5e3bcee8c893d774565e6') in 0.011168 seconds
+  Import took 0.013878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Tomato_Fruit_Albedo.png
+  artifactKey: Guid(024dbba493f6a1941a374b583be3e0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Tomato_Fruit_Albedo.png using Guid(024dbba493f6a1941a374b583be3e0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566e18fac4a3d3b6156014ba86167dc3') in 0.011196 seconds
+  Import took 0.013416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Eggplant_Plant_Albedo.png
+  artifactKey: Guid(84caa95a9936af24ab0e8f10de648d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Eggplant_Plant_Albedo.png using Guid(84caa95a9936af24ab0e8f10de648d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ddbc04e2354ce61c47078c33c4bb87') in 0.009477 seconds
+  Import took 0.011867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Pumpkin_Fruit_Albedo.png
+  artifactKey: Guid(d429ce7c7f2ae9d41a0199b013170f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Pumpkin_Fruit_Albedo.png using Guid(d429ce7c7f2ae9d41a0199b013170f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a10873a55dc65ca5359b1d81c9f6207') in 0.011264 seconds
+  Import took 0.013441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Carrot_Fruit_Albedo.png
+  artifactKey: Guid(37bcc112bafec624ebd7cf80a902e98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Carrot_Fruit_Albedo.png using Guid(37bcc112bafec624ebd7cf80a902e98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378490bced1e73af1b721d67cefb3755') in 0.013124 seconds
+  Import took 0.016472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Turnip_Fruit_Albedo.png
+  artifactKey: Guid(1560766b06180624da2d6c0b3ca97e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Turnip_Fruit_Albedo.png using Guid(1560766b06180624da2d6c0b3ca97e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e216254f99e38fa987003d5262ba686') in 0.022059 seconds
+  Import took 0.027082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Pumpkin_Plant_Albedo.png
+  artifactKey: Guid(ef0049d0331021e44a2dc3d81f0c4d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Pumpkin_Plant_Albedo.png using Guid(ef0049d0331021e44a2dc3d81f0c4d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1382b7bf10691a6f5aba8b6011cf2a') in 0.009554 seconds
+  Import took 0.012336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Dirt_Pile_Albedo.png
+  artifactKey: Guid(47e0b11020ba5f74a930558f91002405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Dirt_Pile_Albedo.png using Guid(47e0b11020ba5f74a930558f91002405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1d5d849dfa29876821ba0fe2cd41ca') in 0.010560 seconds
+  Import took 0.012581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Corn_Fruit_Albedo.png
+  artifactKey: Guid(62ac9907684a4fd44955a96cf3281f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Corn_Fruit_Albedo.png using Guid(62ac9907684a4fd44955a96cf3281f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511fcf16b6f0e33b95635ec565081d87') in 0.011045 seconds
+  Import took 0.013222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Eggplant_Fruit_Albedo.png
+  artifactKey: Guid(89277f3b049847d4196a358cd9e09846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Eggplant_Fruit_Albedo.png using Guid(89277f3b049847d4196a358cd9e09846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0133432c4808178d427c119c649b5184') in 0.011026 seconds
+  Import took 0.013197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Carrot_Plant_Albedo.png
+  artifactKey: Guid(f8f5c18ae32079744ba7b6cd6e40585c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Carrot_Plant_Albedo.png using Guid(f8f5c18ae32079744ba7b6cd6e40585c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bebdf9913f3f26039bae0adb90d90d78') in 0.011606 seconds
+  Import took 0.014785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Turnip_Plant_Albedo.png
+  artifactKey: Guid(7f86a0a19b0de644098617b58fbf1aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Turnip_Plant_Albedo.png using Guid(7f86a0a19b0de644098617b58fbf1aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2601e0b6ca4e664dd1937df5e2db03') in 0.010012 seconds
+  Import took 0.012224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Corn_Plant_Albedo.png
+  artifactKey: Guid(5e330321bb91b424996cc8a57f290ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Corn_Plant_Albedo.png using Guid(5e330321bb91b424996cc8a57f290ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d34d1f7255fe5ba1b3cd3621b75a1d5') in 0.010448 seconds
+  Import took 0.012393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Tomato_Plant_Albedo.png
+  artifactKey: Guid(bcb1a13a0db77a644a2ae5cc6a68f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Textures/Cartoon_Farm_Crops_Tomato_Plant_Albedo.png using Guid(bcb1a13a0db77a644a2ae5cc6a68f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f3aab4dec34682561c31925eb928f3') in 0.011721 seconds
+  Import took 0.013823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.705487 seconds.
+  path: Assets/Cartoon_Farm_Crops/Scenes
+  artifactKey: Guid(2d31bdbebf440f642822ffc9caace8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Scenes using Guid(2d31bdbebf440f642822ffc9caace8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c507f7e7c9226969a964113bb8a5123') in 0.008811 seconds
+  Import took 0.011196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.938074 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs
+  artifactKey: Guid(4b282f46fd391504d8c6ce4658b86d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs using Guid(4b282f46fd391504d8c6ce4658b86d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e20597c76e92ec52977d48f045afde') in 0.010315 seconds
+  Import took 0.012855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.087959 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard
+  artifactKey: Guid(0f43114e13e8f10469e2aa034cbd874b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard using Guid(0f43114e13e8f10469e2aa034cbd874b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cdb1f46d9b785643128030afa46cb1d') in 0.007072 seconds
+  Import took 0.009507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.402597 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Carrot_Fruit.prefab
+  artifactKey: Guid(2cf13a738fc434c46bda5ebf7ca44756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Carrot_Fruit.prefab using Guid(2cf13a738fc434c46bda5ebf7ca44756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56ee8853c888929120d2aef20d9be5b') in 0.123790 seconds
+  Import took 0.127367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Pumpkin_Plant.prefab
+  artifactKey: Guid(30319199574ca3644bf3898bb5cac486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Pumpkin_Plant.prefab using Guid(30319199574ca3644bf3898bb5cac486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e08ec848ad09ed9a0038f6306a48f5') in 0.011092 seconds
+  Import took 0.014157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Eggplant_Fruit.prefab
+  artifactKey: Guid(92417dd2b68fd6147a711fb2af4275b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Eggplant_Fruit.prefab using Guid(92417dd2b68fd6147a711fb2af4275b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32056d3990ec46e7230b9656d360b41') in 0.015191 seconds
+  Import took 0.018447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Carrot_Plant.prefab
+  artifactKey: Guid(56b36da289d9a9e4cb37c5f588e23748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Carrot_Plant.prefab using Guid(56b36da289d9a9e4cb37c5f588e23748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed520f132a573d1a11cf80b8601793f') in 0.018969 seconds
+  Import took 0.021494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Tomato_Fruit.prefab
+  artifactKey: Guid(ad3b2f45225bb0c4f8f80eacd5111af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Tomato_Fruit.prefab using Guid(ad3b2f45225bb0c4f8f80eacd5111af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29831fe2965c2257c9d7c632c48fe37') in 0.018484 seconds
+  Import took 0.021333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Carrot_Plant.prefab
+  artifactKey: Guid(56b36da289d9a9e4cb37c5f588e23748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Carrot_Plant.prefab using Guid(56b36da289d9a9e4cb37c5f588e23748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed520f132a573d1a11cf80b8601793f') in 0.007893 seconds
+  Import took 0.010077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Turnip_Fruit.prefab
+  artifactKey: Guid(9c0476b14d8c518499bcc0adff155ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Turnip_Fruit.prefab using Guid(9c0476b14d8c518499bcc0adff155ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb789fb974e4d5c65124a40ba0f0daae') in 0.017580 seconds
+  Import took 0.020882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Turnip_Plant.prefab
+  artifactKey: Guid(f0666abddd74e5644ac4cf977d74e5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Turnip_Plant.prefab using Guid(f0666abddd74e5644ac4cf977d74e5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9adf10b2f2c39904639b21eb397d96f') in 0.016086 seconds
+  Import took 0.018940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Tomato_Plant.prefab
+  artifactKey: Guid(323e5d46aea633c42bfadb66b36971d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Tomato_Plant.prefab using Guid(323e5d46aea633c42bfadb66b36971d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e2441076d662253400b18505ea1f25') in 0.011098 seconds
+  Import took 0.013345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Corn_Fruit.prefab
+  artifactKey: Guid(8490d29919917de4ca0c5297d93090d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Corn_Fruit.prefab using Guid(8490d29919917de4ca0c5297d93090d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849480723bd910f192b258f8463e43cb') in 0.012193 seconds
+  Import took 0.014577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Dirt_Pile.prefab
+  artifactKey: Guid(c26cacf51e485c54b95fdbf9ad976ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Dirt_Pile.prefab using Guid(c26cacf51e485c54b95fdbf9ad976ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635ddc22c26ae5fbefc028970a5f1166') in 0.018878 seconds
+  Import took 0.021170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Eggplant_Plant.prefab
+  artifactKey: Guid(97c7589824dbbb24cbc2b95a9345ebb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Eggplant_Plant.prefab using Guid(97c7589824dbbb24cbc2b95a9345ebb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e1309ad8f71b64aa5a6199a67f402d0') in 0.029945 seconds
+  Import took 0.044628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Corn_Plant.prefab
+  artifactKey: Guid(1c8776a0b36cd9a4f813bf0d2d59d109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Corn_Plant.prefab using Guid(1c8776a0b36cd9a4f813bf0d2d59d109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ad37683c1d2320144494ff5f5e87e2') in 0.021253 seconds
+  Import took 0.026052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Standard/Pumpkin_Fruit.prefab
+  artifactKey: Guid(0adfa404918648e42a1fb073ef9010d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Standard/Pumpkin_Fruit.prefab using Guid(0adfa404918648e42a1fb073ef9010d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1253c1579e3f945e2272ebfab463af0') in 0.012800 seconds
+  Import took 0.015873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.016475 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile
+  artifactKey: Guid(6681e082a16b2a6489222076731c0634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile using Guid(6681e082a16b2a6489222076731c0634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0783295a81dfc2a594446e50728dd852') in 0.006797 seconds
+  Import took 0.009468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034066 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Carrot_Fruit.prefab
+  artifactKey: Guid(5ccf902a46d565441be630bd717cab9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Carrot_Fruit.prefab using Guid(5ccf902a46d565441be630bd717cab9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2094a1fdf52edf23c45a173ed00bd6c7') in 0.011588 seconds
+  Import took 0.013879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Turnip_Plant.prefab
+  artifactKey: Guid(61b0f6b970bd324438f2ffc56c6ddf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Turnip_Plant.prefab using Guid(61b0f6b970bd324438f2ffc56c6ddf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77290ff25a44378bf41684d0911b56ec') in 0.011885 seconds
+  Import took 0.014455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Eggplant_Fruit.prefab
+  artifactKey: Guid(f3a9c7ecfacfb2f4db788d6a3acdbf54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Eggplant_Fruit.prefab using Guid(f3a9c7ecfacfb2f4db788d6a3acdbf54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fac1693c3b5ed02f969df8b4bac525') in 0.011568 seconds
+  Import took 0.014505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Eggplant_Plant.prefab
+  artifactKey: Guid(fa6407b600577284bb8840b157c7d1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Eggplant_Plant.prefab using Guid(fa6407b600577284bb8840b157c7d1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70842bb0fc3d5c76c2030b9a76fd24e5') in 0.011385 seconds
+  Import took 0.017619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Dirt_Pile.prefab
+  artifactKey: Guid(8dfbe94bc89610d489620aca436a33ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Dirt_Pile.prefab using Guid(8dfbe94bc89610d489620aca436a33ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fc409d11b6c2daaedb5a18cf6eac1f') in 0.011091 seconds
+  Import took 0.013982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Pumpkin_Plant.prefab
+  artifactKey: Guid(85cae589c09bb234d907a2ea8d0bac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Pumpkin_Plant.prefab using Guid(85cae589c09bb234d907a2ea8d0bac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633ec0daf60a0cd28de723c341b7dff3') in 0.011026 seconds
+  Import took 0.013766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Tomato_Fruit.prefab
+  artifactKey: Guid(054e8622a5bae1644b0baa6708dbbc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Tomato_Fruit.prefab using Guid(054e8622a5bae1644b0baa6708dbbc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4adea0f2b615eb8966e7c30ef3cbc5a') in 0.026002 seconds
+  Import took 0.028846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Tomato_Plant.prefab
+  artifactKey: Guid(1cee73a22ae3bff49a094a5883eabd3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Tomato_Plant.prefab using Guid(1cee73a22ae3bff49a094a5883eabd3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38ff0e830df8349ce3d5b63132634aa') in 0.013966 seconds
+  Import took 0.016181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Turnip_Fruit.prefab
+  artifactKey: Guid(becd827951d0b4046808ba97418ecf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Turnip_Fruit.prefab using Guid(becd827951d0b4046808ba97418ecf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318b38599e2128e4705812f1e740ab1b') in 0.009934 seconds
+  Import took 0.012583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Carrot_Plant.prefab
+  artifactKey: Guid(20a97bb13c3ef18478cf9c86535b1e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Carrot_Plant.prefab using Guid(20a97bb13c3ef18478cf9c86535b1e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a060f32ea22c8934b8b7608f7ca84285') in 0.012596 seconds
+  Import took 0.014918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Pumpkin_Fruit.prefab
+  artifactKey: Guid(c2a2644fedfa0a849bbc9b40600c5c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Pumpkin_Fruit.prefab using Guid(c2a2644fedfa0a849bbc9b40600c5c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25eb1858c913a3fd67e1af24b6f4d8fa') in 0.012253 seconds
+  Import took 0.014784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Corn_Plant.prefab
+  artifactKey: Guid(a97ffd75102541b46b48cffc80ef3da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Corn_Plant.prefab using Guid(a97ffd75102541b46b48cffc80ef3da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09eddd32f82b63a94c7b064399ea257') in 0.012391 seconds
+  Import took 0.015123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Corn_Fruit.prefab
+  artifactKey: Guid(525cdbe33e2709049b014f3e3748e15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Prefabs/Mobile/Corn_Fruit.prefab using Guid(525cdbe33e2709049b014f3e3748e15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a78526a4656416f37a9abe25fed46f') in 0.009445 seconds
+  Import took 0.011609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.270646 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials
+  artifactKey: Guid(ed2f31fb21219054bb18ac69bef05f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials using Guid(ed2f31fb21219054bb18ac69bef05f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c619e78ebb6619687cde9a71c4bb826e') in 0.007671 seconds
+  Import took 0.010614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072270 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Carrot_Fruit.mat
+  artifactKey: Guid(89de6558677c5e641bb66722cb40672a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Carrot_Fruit.mat using Guid(89de6558677c5e641bb66722cb40672a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71adbf30d84c2a92b28ff1a461d2d45d') in 0.014364 seconds
+  Import took 0.017318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Eggplant_Plant.mat
+  artifactKey: Guid(3ab8b27d5c162cf48b0c8ad6ed2e1496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Eggplant_Plant.mat using Guid(3ab8b27d5c162cf48b0c8ad6ed2e1496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6cc18a3d49cce90a3dbca087df4121') in 0.012184 seconds
+  Import took 0.015233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Carrot_Plant.mat
+  artifactKey: Guid(12cb46c4f90417445acbbf4abb87381f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Carrot_Plant.mat using Guid(12cb46c4f90417445acbbf4abb87381f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f90d17795e8d3f47e4c381e4c4a634b') in 0.012817 seconds
+  Import took 0.015983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Pumpkin_Plant.mat
+  artifactKey: Guid(0273778534c5ff64ead5f799219ca127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Pumpkin_Plant.mat using Guid(0273778534c5ff64ead5f799219ca127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0a8a74321184c134271b347b1160bc') in 0.013096 seconds
+  Import took 0.016059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Dirt_Pile.mat
+  artifactKey: Guid(1b6ad9e6ace69c2448dda1ea645d4556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Dirt_Pile.mat using Guid(1b6ad9e6ace69c2448dda1ea645d4556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4c5d01b93dd7860bee417b421a7ea9') in 0.011927 seconds
+  Import took 0.014396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Pumpkin_Fruit.mat
+  artifactKey: Guid(d41c833ca4c077c449fc8b214fa60dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Pumpkin_Fruit.mat using Guid(d41c833ca4c077c449fc8b214fa60dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b421a81d7051f0677418fae5fa006cb5') in 0.010889 seconds
+  Import took 0.012975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Tomato_Plant.mat
+  artifactKey: Guid(e292b51f6375349498f26d572faddc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Tomato_Plant.mat using Guid(e292b51f6375349498f26d572faddc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc44fd5505e18c531b9cff48639cc89f') in 0.011317 seconds
+  Import took 0.013352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Corn_Plant.mat
+  artifactKey: Guid(a46349869de82824ba02d48aa61e68f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Corn_Plant.mat using Guid(a46349869de82824ba02d48aa61e68f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '372e4dcfe0576c63dd34f262c8126aba') in 0.012148 seconds
+  Import took 0.014199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Turnip_Fruit.mat
+  artifactKey: Guid(5c447342ee33d5e41b58c66831ddd16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Turnip_Fruit.mat using Guid(5c447342ee33d5e41b58c66831ddd16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c4e5bc45bd6f5182f09abee5ce71e5') in 0.014654 seconds
+  Import took 0.016996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Eggplant_Fruit.mat
+  artifactKey: Guid(84069b5b67b23e24b85eac888c3f5bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Eggplant_Fruit.mat using Guid(84069b5b67b23e24b85eac888c3f5bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62faecd7ad718a8dac691f8a943d97af') in 0.012022 seconds
+  Import took 0.015020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Turnip_Plant.mat
+  artifactKey: Guid(ee377534d2cf3e243ab8ce782be8b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Turnip_Plant.mat using Guid(ee377534d2cf3e243ab8ce782be8b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a79bc96cd4fefc0ad2a76e27bd21f3d') in 0.013670 seconds
+  Import took 0.016493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Corn_Fruit.mat
+  artifactKey: Guid(bd3ac3aaa239ebf4396eb261af13874d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Corn_Fruit.mat using Guid(bd3ac3aaa239ebf4396eb261af13874d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f9bbe4838e8a73778d04a6e8828da7') in 0.012658 seconds
+  Import took 0.015587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Tomato_Fruit.mat
+  artifactKey: Guid(388986c9e8f85524db50964a7d9d5052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Tomato_Fruit.mat using Guid(388986c9e8f85524db50964a7d9d5052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7a176ce66bddcdda36caa3ee4ebc8b') in 0.024971 seconds
+  Import took 0.029059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Cartoon_Farm_Crops/Materials/Cartoon_Farm_Crops_Mobiles.mat
+  artifactKey: Guid(29a286d2dc90be241a18e462c6b29a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Materials/Cartoon_Farm_Crops_Mobiles.mat using Guid(29a286d2dc90be241a18e462c6b29a5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd2bc1c52fb9be809f384791467f5fd') in 0.014097 seconds
+  Import took 0.017361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.736731 seconds.
+  path: Assets/Cartoon_Farm_Crops/Meshes
+  artifactKey: Guid(f34602e9e2a82004b89295250dc880e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Meshes using Guid(f34602e9e2a82004b89295250dc880e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e9b464b3d10c833b6dd25e8cbc8b6f') in 0.005640 seconds
+  Import took 0.007566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048988 seconds.
+  path: Assets/Cartoon_Farm_Crops/Meshes/Cartoon_Farm_Crops.fbx
+  artifactKey: Guid(b69b26c8b73b8bd49bf243bbe541a2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Meshes/Cartoon_Farm_Crops.fbx using Guid(b69b26c8b73b8bd49bf243bbe541a2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3deca4dc000a719d047c92deb073f834') in 0.096000 seconds
+  Import took 0.098675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Cartoon_Farm_Crops/Meshes/Cartoon_Farm_Crops_Mobile.fbx
+  artifactKey: Guid(fbd33e75d8d4bf9479c9cb59e83a9e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon_Farm_Crops/Meshes/Cartoon_Farm_Crops_Mobile.fbx using Guid(fbd33e75d8d4bf9479c9cb59e83a9e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc6bee495a9a7e8d4e10cd9df49b22f2') in 0.099720 seconds
+  Import took 0.101754 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 2.156500 ms (FindLiveObjects: 0.285400 ms CreateObjectMapping: 0.067100 ms MarkObjects: 1.732600 ms  DeleteObjects: 0.070100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.285135 seconds.
+  path: Assets/PlantGrowth.cs
+  artifactKey: Guid(31f97c0dd90f9bd4197d3912799c937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlantGrowth.cs using Guid(31f97c0dd90f9bd4197d3912799c937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1def7ccba60cf1fc92b35a93b777e4f7') in 0.023021 seconds
+  Import took 0.025799 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001326 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.812700 ms (FindLiveObjects: 0.215300 ms CreateObjectMapping: 0.041900 ms MarkObjects: 1.493800 ms  DeleteObjects: 0.060700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 744.478766 seconds.
+  path: Assets/PlantGrowth.cs
+  artifactKey: Guid(31f97c0dd90f9bd4197d3912799c937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlantGrowth.cs using Guid(31f97c0dd90f9bd4197d3912799c937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5026152b47c29c5ee7ce8a8a622b2f68') in 0.005703 seconds
+  Import took 0.008094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001435 seconds.
+  path: Assets/PlantGrowth.cs
+  artifactKey: Guid(31f97c0dd90f9bd4197d3912799c937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlantGrowth.cs using Guid(31f97c0dd90f9bd4197d3912799c937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5026152b47c29c5ee7ce8a8a622b2f68') in 0.002111 seconds
+  Import took 0.004579 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 2.519300 ms (FindLiveObjects: 0.221000 ms CreateObjectMapping: 0.041800 ms MarkObjects: 2.190000 ms  DeleteObjects: 0.064700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 3.877000 ms (FindLiveObjects: 0.189600 ms CreateObjectMapping: 0.059400 ms MarkObjects: 3.559000 ms  DeleteObjects: 0.067000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 1.784800 ms (FindLiveObjects: 0.184900 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.498600 ms  DeleteObjects: 0.066100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 2.060000 ms (FindLiveObjects: 0.358700 ms CreateObjectMapping: 0.061500 ms MarkObjects: 1.581300 ms  DeleteObjects: 0.055200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000693 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 4.655800 ms (FindLiveObjects: 0.589000 ms CreateObjectMapping: 0.188700 ms MarkObjects: 3.759000 ms  DeleteObjects: 0.116100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 2.296200 ms (FindLiveObjects: 0.264100 ms CreateObjectMapping: 0.055300 ms MarkObjects: 1.894200 ms  DeleteObjects: 0.080700 ms)
+
